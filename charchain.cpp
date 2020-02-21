@@ -1,6 +1,4 @@
 /*--------------------------------------------------------
- * Name: Andrew Killian
- *
  * Program to illustrate a menu of options
  * to create, modify and display a linked list of characters.
  --------------------------------------------------------*/
